@@ -1,0 +1,1 @@
+embodied agents, agent memory, failure memory, grid-world navigation, persistent memory, autonomous agents, reactive navigation, navigation planning, reproducible evaluation

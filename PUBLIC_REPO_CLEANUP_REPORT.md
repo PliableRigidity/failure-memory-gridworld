@@ -128,7 +128,7 @@ required.
 
 ## Remaining manual actions
 
-- Confirm https://github.com/PliableRigidity/paper is the intended public remote.
+- Confirm https://github.com/PliableRigidity/failure-memory-gridworld is the intended public remote.
 - Decide whether to keep or remove this PUBLIC_REPO_CLEANUP_REPORT.md before the
   first public commit.
 - If the SSRN submission package (previously in release/) is still wanted for

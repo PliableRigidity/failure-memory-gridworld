@@ -11,11 +11,12 @@ authors:
   - given-names: Ishaan
     family-names: Verma
     email: ishaan.v554@gmail.com
+    affiliation: "University of Bristol"
 version: "1.0.0"
 date-released: "2026-07-17"
 license: MIT
-repository-code: "https://github.com/PliableRigidity/paper"
-url: "https://github.com/PliableRigidity/paper"
+repository-code: "https://github.com/PliableRigidity/failure-memory-gridworld"
+url: "https://github.com/PliableRigidity/failure-memory-gridworld"
 keywords:
   - agent memory
   - grid-world navigation
@@ -27,11 +28,12 @@ keywords:
   - reproducible evaluation
 preferred-citation:
   type: article
-  title: "Learning What Not to Do: Evaluating Persistent Failure Memory in Grid-World Navigation Agents"
+  title: "Failure Memory in Grid-World Agents"
   authors:
     - given-names: Ishaan
       family-names: Verma
       email: ishaan.v554@gmail.com
+      affiliation: "University of Bristol"
   year: 2026
   # Independent research preprint, not peer reviewed. Intended for SSRN.
   # SSRN abstract identifier or DOI to be added once assigned at submission.

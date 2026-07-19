@@ -1,4 +1,12 @@
-# Learning What Not to Do: Evaluating Persistent Failure Memory in Grid-World Navigation Agents
+---
+title: "Failure Memory in Grid-World Agents"
+author:
+- |
+  Ishaan Verma\
+  Undergraduate student, University of Bristol\
+  Independent research preprint^[This work was conducted independently outside a formal university research project. The University of Bristol did not supervise or endorse the study. Contact: ishaan.v554@gmail.com]
+date: "July 2026"
+---
 
 Keywords: failure memory, grid-world navigation, embodied agents, reactive
 navigation, reproducible evaluation
@@ -314,8 +322,8 @@ higher task success or shorter runs under the tested policy.
 ## 8. Code and data availability
 
 The implementation, fixed maze definitions, experiment traces, raw results,
-analysis scripts, tests, and reproduction instructions are available at:
-https://github.com/PliableRigidity/paper
+analysis scripts, tests, and reproduction instructions are available at
+\url{https://github.com/PliableRigidity/failure-memory-gridworld}.
 
 The full experiment can be reproduced with:
 
@@ -323,12 +331,10 @@ The full experiment can be reproduced with:
 
 ## 9. Declaration of generative AI assistance
 
-During the preparation of this work, the author used generative AI tools for
-literature discovery, software development assistance, experiment planning,
-language refinement, and manuscript editing. The author reviewed the experimental
-design, verified the cited sources, executed and inspected the experiments,
-interpreted the results, revised the manuscript, and takes responsibility for the
-final content.
+Generative AI tools were used for software-development assistance, literature
+discovery, and language editing. The author designed and verified the experiments,
+reviewed the sources, interpreted the results, and takes responsibility for the
+final work.
 
 ## Appendix A. Figures
 

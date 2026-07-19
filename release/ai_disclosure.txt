@@ -1,0 +1,4 @@
+Generative AI tools were used for software-development assistance, literature
+discovery, and language editing. The author designed and verified the experiments,
+reviewed the sources, interpreted the results, and takes responsibility for the
+final work.

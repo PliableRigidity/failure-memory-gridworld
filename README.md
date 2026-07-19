@@ -1,8 +1,9 @@
 # Failure Memory in Grid-World Navigation
 
-Paper: **Learning What Not to Do: Evaluating Persistent Failure Memory in
-Grid-World Navigation Agents**. Author: Ishaan Verma (Independent Researcher).
-This is an independent research preprint.
+Paper: **Failure Memory in Grid-World Agents**. Author: Ishaan Verma (Undergraduate student,
+University of Bristol). This is an independent research preprint. The work was
+conducted independently and was not supervised, funded, or endorsed by the
+University of Bristol.
 
 ## Summary
 
@@ -100,8 +101,8 @@ is [paper/manuscript.md](paper/manuscript.md).
 
 Citation metadata is in [CITATION.cff](CITATION.cff). Please cite the preprint:
 
-> Verma, I. (2026). Learning What Not to Do: Evaluating Persistent Failure Memory
-> in Grid-World Navigation Agents. Independent research preprint.
+> Verma, I. (2026). Failure Memory in Grid-World Agents. Independent research
+> preprint.
 
 ## Licence
 
@@ -118,6 +119,4 @@ No statistical significance is claimed; the design does not sample a population.
 
 ## AI-assistance disclosure
 
-Generative AI assistance is disclosed in the paper (Section 9). The author verified
-the cited sources, executed and inspected the experiments, interpreted the results,
-revised the manuscript, and takes responsibility for the final content.
+Generative AI assistance is disclosed in the paper (Section 9).
