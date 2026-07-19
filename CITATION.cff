@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite the preprint below."
+title: "Failure Memory in Grid-World Navigation"
+abstract: >-
+  Code and data for a controlled study of persistent within-run failure memory
+  in grid-world navigation agents. Two agents share an identical deterministic
+  policy and differ only in how long a blocked state-action pair is remembered.
+type: software
+authors:
+  # Author name provided by the author.
+  - given-names: Ishaan
+    family-names: Verma
+    email: ishaan.v554@gmail.com
+version: "1.0.0"
+date-released: "2026-07-17"
+license: MIT
+repository-code: "https://github.com/PliableRigidity/paper"
+url: "https://github.com/PliableRigidity/paper"
+keywords:
+  - agent memory
+  - grid-world navigation
+  - embodied agents
+  - failure memory
+  - persistent memory
+  - autonomous agents
+  - navigation planning
+  - reproducible evaluation
+preferred-citation:
+  type: article
+  title: "Learning What Not to Do: Evaluating Persistent Failure Memory in Grid-World Navigation Agents"
+  authors:
+    - given-names: Ishaan
+      family-names: Verma
+      email: ishaan.v554@gmail.com
+  year: 2026
+  # Independent research preprint, not peer reviewed. Intended for SSRN.
+  # SSRN abstract identifier or DOI to be added once assigned at submission.
+  notes: "Independent research preprint, not peer reviewed. SSRN identifier pending."

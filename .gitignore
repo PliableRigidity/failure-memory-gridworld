@@ -1,0 +1,34 @@
+# Environment and secrets
+.env
+.env.*
+
+# Python caches and build artefacts
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+
+# Test caches
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor and IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files and logs
+*.tmp
+*.log
