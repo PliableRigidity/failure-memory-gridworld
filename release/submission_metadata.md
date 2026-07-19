@@ -8,6 +8,8 @@ Failure Memory in Grid-World Agents
 
 Ishaan Verma
 
+ORCID: https://orcid.org/0009-0006-2038-3274
+
 ## Affiliation
 
 University of Bristol

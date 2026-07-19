@@ -4,7 +4,8 @@ author:
 - |
   Ishaan Verma\
   Undergraduate student, University of Bristol\
-  Independent research preprint^[This work was conducted independently outside a formal university research project. The University of Bristol did not supervise or endorse the study. Contact: ishaan.v554@gmail.com]
+  ORCID: <https://orcid.org/0009-0006-2038-3274>\
+  Independent research preprint
 date: "July 2026"
 ---
 

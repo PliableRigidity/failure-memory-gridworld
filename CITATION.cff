@@ -12,6 +12,7 @@ authors:
     family-names: Verma
     email: ishaan.v554@gmail.com
     affiliation: "University of Bristol"
+    orcid: "https://orcid.org/0009-0006-2038-3274"
 version: "1.0.0"
 date-released: "2026-07-17"
 license: MIT
@@ -34,6 +35,7 @@ preferred-citation:
       family-names: Verma
       email: ishaan.v554@gmail.com
       affiliation: "University of Bristol"
+      orcid: "https://orcid.org/0009-0006-2038-3274"
   year: 2026
   # Independent research preprint, not peer reviewed. Intended for SSRN.
   # SSRN abstract identifier or DOI to be added once assigned at submission.
